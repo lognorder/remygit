@@ -1,5 +1,6 @@
 remygit
 =======
 
-a test file<br>
-author: remy
+a test file<br/>
+author: remy<br/>
+bingo
