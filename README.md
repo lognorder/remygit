@@ -1,8 +1,5 @@
 remygit
 =======
 
-a test file
+a test file<br>
 author: remy
-num1
-next num
-wft
